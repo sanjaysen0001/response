@@ -1,0 +1,14 @@
+.borderOrange {
+  width: 95%;
+  margin-left: 10px;
+  border-bottom: 1px solid orange;
+  /* borderBottom: "1px solid orange" */
+}
+/* .onepoints {
+  position: absolute;
+  background-color: brown;
+  left: 2px;
+  border-radius: 50%;
+  width: 12px;
+  height: 13px;
+} */
